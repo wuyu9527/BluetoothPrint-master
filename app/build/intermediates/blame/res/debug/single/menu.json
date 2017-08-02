@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Demo\\BluetoothPrint-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "D:\\Demo\\BluetoothPrint-master\\app\\src\\main\\res\\menu\\option_menu.xml"
+    }
+]

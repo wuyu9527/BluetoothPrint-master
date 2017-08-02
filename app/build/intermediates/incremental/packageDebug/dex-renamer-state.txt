@@ -1,0 +1,7 @@
+#Tue Jul 11 13:50:15 CST 2017
+base.0=D\:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f877b0e417a6f6d66b52bd3e21d8d8938ae71888
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99127e8a0812c7f2d68cef52d6b70c5db1e421d7\\classes.dex
+base.1=D\:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99127e8a0812c7f2d68cef52d6b70c5db1e421d7
+file.0=D\:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f877b0e417a6f6d66b52bd3e21d8d8938ae71888\\classes.dex

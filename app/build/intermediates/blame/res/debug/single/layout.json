@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\Demo\\BluetoothPrint-master\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Demo\\BluetoothPrint-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Demo\\BluetoothPrint-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\Demo\\BluetoothPrint-master\\app\\src\\main\\res\\layout\\device_name.xml"
+    }
+]
